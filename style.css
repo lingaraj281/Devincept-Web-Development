@@ -1,0 +1,54 @@
+body {
+    background-color: #F7F7F7;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: lightblue;
+}
+
+#subheading {
+    background-color: white;
+    text-align: center;
+}
+
+div {
+    border: red;
+    border-radius: 10px;
+    border-style: double;
+    border
+}
+
+#first {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+hr,
+h2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Main {
+    margin-left: 500px;
+}
+
+.text {
+    margin-left: 350px;
+}
+
+#image {
+    margin-top: 10px;
+}
+
+p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#Image {
+    text-align: center;
+}
